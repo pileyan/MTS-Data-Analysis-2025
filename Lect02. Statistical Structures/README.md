@@ -6,5 +6,4 @@
 4) [HyperLogLog](https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) от Флажоле
 5) [uniq](https://algo.inria.fr/flajolet/Publications/Flajolet90.pdf) aka адаптивное семплирование Вегмана от Флажоле
 6) [t-digest](https://arxiv.org/abs/1902.04023) От скромного Тэда Даннинга
-7) 
 
